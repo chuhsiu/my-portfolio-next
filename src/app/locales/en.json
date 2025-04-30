@@ -1,0 +1,25 @@
+{
+    "section" :{
+        "about" : "About",
+        "experience" : "Experience",
+        "education" : "Education",
+        "skill" : "Skill",
+        "project" : "Project"
+    },
+    "about":{
+        "name": "Zoey Cheng",
+        "title": "Web Developer",
+        "line1":"Over 2 years of full-stack development experience, specializing in SPA development using frameworks such as Vue and Blazor.",
+        "line2":"Proficient in the .NET Core architecture with hands-on experience in ASP.NET MVC for page rendering and routing control.",
+        "line3":"Capable of working independently or collaboratively across departments, consistently delivering projects on time.",
+        "line4":"Passionate about learning new technologies — currently diving into React and Node.js — and aspiring to become a versatile developer who masters tools and adapts flexibly."
+    },
+    "bachelor" :{
+        "school" : "National Sun Yat-sen University",
+        "major" : "Bachelor of Information Management"
+    },
+    "master" :{
+        "school" : "National Sun Yat-sen University",
+        "major" : "Master of Science in Information Systems, Financial Services and Fintech Micro-credentials"
+    }
+}

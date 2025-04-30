@@ -1,0 +1,103 @@
+[{
+    "id": 1,
+    "sortOrder": 1,
+    "startDate": "2023-01",
+    "endDate": "2025-03",
+    "translations": {
+      "en": {
+        "title": "Software Engineer",
+        "company": "PEGATRON",
+        "content": [
+          "1.&emsp;Proficient in **Vue** development with experience maintaining **ASP.NET MVC** and **Blazor** websites",
+          "2.&emsp;**Led legacy system refactoring projects**, effectively planned development timelines, and ensured smooth phased releases and system transitions",
+          "3.&emsp;Developed automation tools using **PowerShell** and **Task Scheduler** to streamline workflows and improve efficiency",
+          "4.&emsp;**Collaborated across departments** to implement **responsive design** for over 100 internal enterprise forms, enhancing cross-device usability and maintainability"
+        ]
+      },
+      "zh": {
+        "title": "軟體工程師",
+        "company": "和碩聯合科技",
+        "content": [
+          "1.&emsp;擅長 **Vue** 網站開發，有維護 **ASP.NET MVC 、Blazor** 網站經驗",
+          "2.&emsp;**主導舊有系統重構**，妥善規劃進度，實現階段性上線確保系統順利過渡",
+          "3.&emsp;**PowerShell** 與 **Task Scheduler** 開發自動化工具，優化工作流程",
+          "4.&emsp;**跨部門協作**，成功將企業內部百份表單導入**響應式設計**，提升跨裝置體驗與維護效率"
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "sortOrder": 2,
+    "startDate": "2023-01",
+    "endDate": "2025-03",
+    "translations": {
+      "en": {
+        "title": "Research Assistant",
+        "company": "Metal Industries Research & Development Centre",
+        "content": [
+            "1.&emsp;Optimized database systems using **Python Flask** and **MongoDB** by converting historical Excel and PDF files into structured data",
+            "2.&emsp;Utilized **ShinyApp** for data visualization, including descriptive analytics, trend charts, mosaic plots, and social network graphs",
+            "3.&emsp;Experienced in processing large-scale data using **Hadoop** and **Spark**",
+            "5.&emsp;Composed annual analytical reports and provided industry  recommendations"
+        ]
+      },
+      "zh": {
+        "title": "研究助理",
+        "company": "金屬中心",
+        "content": [
+            "1.&emsp;使用 **Python flask** 與 **MongoDB** 優化資料庫系統，將歷年來的 Excel、PDF 檔案轉換為結構化資料",
+            "2.&emsp;善用 **ShinyApp** 資料視覺化，包含敘述性分析、趨勢圖、馬賽克圖與社群網路圖",
+            "3.&emsp;有 **Hadoop** 與 **Spark** 運算處理大量數據經驗",
+            "5.&emsp;撰寫年度分析報告、提供產業建議"
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "sortOrder": 3,
+    "startDate": "2021-07",
+    "endDate": "2022-09",
+    "translations": {
+      "en": {
+        "title": "Website Operations & Content Manager",
+        "company": "NSYSU's Big Data Business Analytics Platform",
+        "content": [
+            "1.&emsp;Maintained and updated **WordPress** websites; planned and produced content to drive web traffic",
+            "2.&emsp;Organized workshops, including building event websites, managing registration systems, setting up live streaming, planning in-person logistics, and executing online marketing campaigns",
+            "3.&emsp;Increased Facebook page followers by **15%** and YouTube channel subscribers by **30%**"
+        ]
+      },
+      "zh": {
+        "title": "網站經營與維護",
+        "company": "中山大學商業大數據粉專",
+        "content": [
+            "1.&emsp;維護 **Wordpress** 網頁，並負責規劃與生產內容，打造流量",
+            "2.&emsp;舉辦工作坊活動，負責活動網頁建置、報名系統、線上直播環境、線下活動規劃與網路行銷",
+            "3.&emsp;Facebook 粉絲專頁上升**15%訂閱數**、YouTube頻道上升**30%訂閱數**"
+        ]
+      }
+    }},
+    {
+        "id": 4,
+        "sortOrder": 4,
+        "startDate": "2019-07",
+        "endDate": "2019-10",
+        "translations": {
+          "en": {
+            "title": "Intern",
+            "company": "Streams",
+            "content": [
+                "1.&emsp;Ext.js Website and Database Maintenance, **Static Webpage Layout Design**"
+            ]
+          },
+          "zh": {
+            "title": "實習生",
+            "company": "西川系統",
+            "content": [
+                "1.&emsp;Ext.js 網站與資料庫維護、**網頁靜態切版**"
+            ]
+          }
+        }}
+]

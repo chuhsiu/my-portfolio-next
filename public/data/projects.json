@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "image": "/images/project/project1.png",
+    "code" : "",
+    "link" : "https://www.pegatroncorp.com/",
+    "translations": {
+      "en": {
+        "name" : "PEGATRON",
+        "content" : [
+          "**1.&emsp;Front-End:** Vue + Vuex + I18n",
+          "**2.&emsp;Back-End:** Vue + Vuex + Vuetify, Import TinyMCE plugin",
+          "**3.&emsp;Server:** Developed RESTful APIs using C# and .NET Core"
+        ]
+      } ,
+      "zh": {
+        "name" : "PEGATRON",
+        "content" : [
+          "**1.&emsp;前台：** Vue + Vuex + I18n",
+          "**2.&emsp;後台：** Vue + Vuex + Vuetify，引用 TinyMCE 套件",
+          "**3.&emsp;後端：** C# .NET Core 開發 RESTful API"
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "image": "/images/project/project2.png",
+    "code" : "",
+    "link" : "https://svr.pegatroncorp.com/",
+    "translations": {
+      "en": {
+        "name" : "PEGATRON SVR",
+        "content" : ["1.&emsp;ASP.NET MVC architecture",
+  "2.&emsp;Modular design with Razor pages (.cshtml), Layout, and Partial Views",
+  "3.&emsp;Data exchange using JSON format",
+  "4.&emsp;Asynchronous search functionality via AJAX (jQuery / Fetch)"]
+      } ,
+      "zh": {
+        "name" : "PEGATRON SVR",
+        "content" : [
+          "1.&emsp;ASP.NET MVC 架構",
+        "2.&emsp;Razor 頁面 (.cshtml) 與 Layout、Partial View 模組化設計",
+        "3.&emsp;JSON 資料交換格式",
+      "4.&emsp;AJAX 非同步搜尋功能（jQuery / Fetch）"]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "image": "/images/project/project3.png",
+    "code" : "https://github.com/chuhsiu/chuhsiu.github.io",
+    "link" : "https://chuhsiu.github.io/",
+    "translations": {
+      "en": {
+        "name" : "Personal Website",
+        "content" : [
+          "1.&emsp;Built with the React framework for modular and maintainable UI components",
+          "2.&emsp;Styled with Tailwind CSS to create responsive layouts efficiently"
+        ]
+      } ,
+      "zh": {
+        "name" : "個人網站",
+        "content" : [
+          "1.&emsp;使用 React 架構實作元件化 UI，提升可重用性與維護性",
+          "2.&emsp;搭配 Tailwind CSS 實現快速、響應式版面設計"
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "image": "/images/project/project4.png",
+    "code" : "https://github.com/chuhsiu/2018-referendum-analysis",
+    "link" : " https://zoeycheng.shinyapps.io/2018-referendum-01/",
+    "translations": {
+      "en": {
+        "name" : "2018 referendum : Scatterplot matrix",
+        "content" : [
+          "**Shiny App:**\n Used the ggpairs function from the GGally package to explore referendum outcomes and social characteristics across different groups (counties/cities)."
+        ]
+      } ,
+      "zh": {
+        "name" : "2018年公投 : 成對變數矩陣",
+        "content" : [
+          "**Shiny App:**\n 以 GGally 套件的 ggpairs 函數，觀察不同分群(縣市)下的公投狀況以及社會特性表現。"
+        ]
+      }
+    }
+  }
+  ,
+  {
+    "id": 5,
+    "image": "/images/project/project5.png",
+    "code" : "https://github.com/chuhsiu/2018-referendum-analysis",
+    "link" : " https://zoeycheng.shinyapps.io/2018-referendum-02/",
+    "translations": {
+      "en": {
+        "name" : "2018 referendum : PCA analysis",
+        "content" : [
+          "**Shiny App:**\n Integrated with GIS maps to select data points sharing similar dimensions under PCA and observe their geographical distribution."
+        ]
+      } ,
+      "zh": {
+        "name" : "2018年公投 : PCA 分析",
+        "content" : [
+          "**Shiny App:**\n 搭配GIS地圖，可以圈選PCA下相同維度的資料點，並觀察地理分佈。"
+        ]
+      }
+    }
+  }
+]
