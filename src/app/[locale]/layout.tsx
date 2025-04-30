@@ -20,7 +20,7 @@ const josefinSans = Josefin_Sans({
 export const metadata: Metadata = {
   title: "Zoey Chebg",
   description: "my portfolio with next.js",
-  icons: "./public/favicon.svg"
+  icons: `${process.env.NEXT_PUBLIC_BASE_URL}/favicon.svg`
 };
 
 export default async function RootLayout({
