@@ -43,7 +43,7 @@ interface ExpTrans {
   }
 
   export async function getExp(): Promise<[ExpData]> {
-    const res = await fetch('http://localhost:3000/data/experience.json', {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/experience.json`, {
       next: { revalidate: 60 },
     });
     if (!res.ok) throw Error;
@@ -51,7 +51,7 @@ interface ExpTrans {
   }
 
   export async function getSkill(): Promise<[SkillData]> {
-    const res = await fetch('http://localhost:3000/data/skills.json', {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/skills.json`, {
       next: { revalidate: 60 },
     });
     if (!res.ok) throw Error;
@@ -59,7 +59,7 @@ interface ExpTrans {
   }
 
   export async function getProject(): Promise<[ProjectData]> {
-    const res = await fetch('http://localhost:3000/data/projects.json', {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/projects.json`, {
       next: { revalidate: 60 },
     });
     if (!res.ok) throw Error;
