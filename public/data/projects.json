@@ -8,17 +8,21 @@
       "en": {
         "name" : "PEGATRON",
         "content" : [
-          "**1.&emsp;Front-End:** Vue + Vuex + I18n",
-          "**2.&emsp;Back-End:** Vue + Vuex + Vuetify, Import TinyMCE plugin",
-          "**3.&emsp;Server:** Developed RESTful APIs using C# and .NET Core"
+          "A front-end and back-end separated project with an independent CMS backend.",
+          "",
+          "**•&emsp;Back-end**: C# .NET Core architecture, using RESTful API design",
+          "**•&emsp;Front-end**: Vue.js architecture, utilizing i18n with Vuex for multi-language management",
+          "**•&emsp;CMS Backend**: Vue.js architecture, using Vuetify for quick UI integration and TinyMCE for visual content editing"
         ]
       } ,
       "zh": {
         "name" : "PEGATRON",
         "content" : [
-          "**1.&emsp;前台：** Vue + Vuex + I18n",
-          "**2.&emsp;後台：** Vue + Vuex + Vuetify，引用 TinyMCE 套件",
-          "**3.&emsp;後端：** C# .NET Core 開發 RESTful API"
+          "採用前後端分離專案，並有獨立CMS後台。",
+          "",
+          "**•&emsp;後端**：C# .NET Core 架構，使用 RESTful API 設計",
+          "**•&emsp;前端**：Vue.js架構，採用 i18n 搭配 Vuex 多語系管理",
+          "**•&emsp;CMS後台**：Vue.js架構，使用Vuetify快速整合畫面，引用TinyMCE套件實現可視化內容編輯"
         ]
       }
     }
@@ -31,39 +35,39 @@
     "translations": {
       "en": {
         "name" : "PEGATRON SVR",
-        "content" : ["1.&emsp;ASP.NET MVC architecture",
-  "2.&emsp;Modular design with Razor pages (.cshtml), Layout, and Partial Views",
-  "3.&emsp;Data exchange using JSON format",
-  "4.&emsp;Asynchronous search functionality via AJAX (jQuery / Fetch)"]
+        "content" : ["•&emsp;ASP.NET MVC architecture",
+  "•&emsp;Modular design with Razor pages (.cshtml), Layout, and Partial Views",
+  "•&emsp;Data exchange using JSON format",
+  "•&emsp;Asynchronous search functionality via AJAX (jQuery / Fetch)"]
       } ,
       "zh": {
         "name" : "PEGATRON SVR",
         "content" : [
-          "1.&emsp;ASP.NET MVC 架構",
-        "2.&emsp;Razor 頁面 (.cshtml) 與 Layout、Partial View 模組化設計",
-        "3.&emsp;JSON 資料交換格式",
-      "4.&emsp;AJAX 非同步搜尋功能（jQuery / Fetch）"]
+          "•&emsp;ASP.NET MVC 架構",
+        "•&emsp;Razor 頁面 (.cshtml) 與 Layout、Partial View 模組化設計",
+        "•&emsp;JSON 資料交換格式",
+      "•&emsp;AJAX 非同步搜尋功能"]
       }
     }
   },
   {
     "id": 3,
     "image": "/images/project/project3.png",
-    "code" : "https://github.com/chuhsiu/chuhsiu.github.io",
-    "link" : "https://chuhsiu.github.io/",
+    "code" : "https://github.com/chuhsiu/my-portfolio-next",
+    "link" : "https://my-portfolio-next-theta.vercel.app",
     "translations": {
       "en": {
         "name" : "Personal Website",
         "content" : [
-          "1.&emsp;Built with the React framework for modular and maintainable UI components",
-          "2.&emsp;Styled with Tailwind CSS to create responsive layouts efficiently"
+          "•&emsp;Using Next.js App Router with TypeScript, deployed on Vercel",
+          "•&emsp;Styled with Radix UI components and Tailwind CSS to quickly create responsive layout designs"
         ]
       } ,
       "zh": {
         "name" : "個人網站",
         "content" : [
-          "1.&emsp;使用 React 架構實作元件化 UI，提升可重用性與維護性",
-          "2.&emsp;搭配 Tailwind CSS 實現快速、響應式版面設計"
+          "•&emsp;採用 Next.js App Router 搭配 TypeScript，並部署於 Vercel",
+          "•&emsp;使用 Radix UI 元件與 Tailwind CSS，實現快速、響應式版面設計"
         ]
       }
     }

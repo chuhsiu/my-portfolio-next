@@ -8,20 +8,24 @@
         "title": "Software Engineer",
         "company": "PEGATRON",
         "content": [
-          "1.&emsp;Proficient in **Vue** development with experience maintaining **ASP.NET MVC** and **Blazor** websites",
-          "2.&emsp;**Led legacy system refactoring projects**, effectively planned development timelines, and ensured smooth phased releases and system transitions",
-          "3.&emsp;Developed automation tools using **PowerShell** and **Task Scheduler** to streamline workflows and improve efficiency",
-          "4.&emsp;**Collaborated across departments** to implement **responsive design** for over 100 internal enterprise forms, enhancing cross-device usability and maintainability"
+          "**1.&emsp;Corporate Website Development**: Collaborated with front-end engineers to convert static templates into dynamic websites using Vue.js and ASP.NET MVC architecture",
+          "**2.&emsp;CMS Development**: Led requirement analysis and system design. Developed the front end using Vue.js and integrated TinyMCE for visual content editing. Implemented the back end with .NET Core and designed a flexible, extensible database structure using the EAV model",
+          "**3.&emsp;Legacy System Integration**: Planned and designed new system features, organized phased rollouts, and ensured smooth system transitions without disrupting existing operations",
+          "**4.&emsp;Automation Tool Implementation**: Developed PowerShell Remoting scripts to connect and perform security scans across multiple servers. Used Task Scheduler to automate recurring tasks, significantly reducing manual workload",
+          "**5.&emsp;UI Plugin Development**: Created custom C# components and JavaScript plugins (e.g., personnel selector, dynamic dropdown menus). Delivered integration documentation to the front-end team, improving development speed and maintainability",
+          "**6.&emsp;Cross-Department Collaboration**: Migrated internal enterprise forms to responsive design. Collaborated with design and development teams, established a clear implementation process, and held regular review meetings to enhance maintainability and optimize user experience"
         ]
       },
       "zh": {
         "title": "軟體工程師",
         "company": "和碩聯合科技",
         "content": [
-          "1.&emsp;擅長 **Vue** 網站開發，有維護 **ASP.NET MVC 、Blazor** 網站經驗",
-          "2.&emsp;**主導舊有系統重構**，妥善規劃進度，實現階段性上線確保系統順利過渡",
-          "3.&emsp;**PowerShell** 與 **Task Scheduler** 開發自動化工具，優化工作流程",
-          "4.&emsp;**跨部門協作**，成功將企業內部百份表單導入**響應式設計**，提升跨裝置體驗與維護效率"
+          "**1.&emsp;開發公司網站**：與前端工程師合作，將靜態切版轉換為Vue.js 框架、ASP .NET MVC架構網站等經驗",
+          "**2.&emsp;開發CMS網站**：主導需求訪談與系統設計，前端採用 Vue.js開發，使用 TinyMCE 實現可視化內容編輯，後端採用 .NET Core 架構以及 EAV 資料庫設計，實現資料彈性擴充",
+          "**3.&emsp;整合新舊系統**：規劃與設計新系統功能，並安排階段性切換，確保系統能順利過渡",
+          "**4.&emsp;導入自動化工具**： 撰寫 PowerShell Remoting ，連接至多台伺服器執行一系列安全性掃描，並使用 Task Scheduler 自動化定期執行任務，減少手動操作",
+          "**5.&emsp;撰寫UI插件**：開發 C# 控制元件與 JavaScript 插件（如人員選擇功能、動態下拉選單等），並提供文檔交付前端團隊整合與自定義，提升開發效率",
+          "**6.&emsp;跨部門合作**：將企業內部各表單導入響應式設計。與設計、前後端團隊合作，建立導入流程，定期開會與調整，提升維護效率，並優化使用者體驗"
         ]
       }
     }
@@ -36,20 +40,20 @@
         "title": "Research Assistant",
         "company": "Metal Industries Research & Development Centre",
         "content": [
-            "1.&emsp;Optimized database systems using **Python Flask** and **MongoDB** by converting historical Excel and PDF files into structured data",
-            "2.&emsp;Utilized **ShinyApp** for data visualization, including descriptive analytics, trend charts, mosaic plots, and social network graphs",
-            "3.&emsp;Experienced in processing large-scale data using **Hadoop** and **Spark**",
-            "5.&emsp;Composed annual analytical reports and provided industry  recommendations"
+            "**1.&emsp;Database System Optimization**: Responsible for converting Excel, PDF, and other documents into structured data. Developed a data management interface using Python Flask and MongoDB, supporting data creation, editing, deletion, search, and export functionalities",
+            "**2.&emsp;Data Visualization**: Utilized ShinyApp to build interactive dashboards, presenting descriptive analytics, trend charts, mosaic plots, and social network graphs to help non-technical users understand complex data",
+            "**3.&emsp;Data Analysis**: Scraped data from international news websites and designed a workflow for text segmentation and keyword extraction using Python spaCy and R’s udpipe. Built and integrated custom keyword dictionaries. Experienced in processing large-scale data using Hadoop and Spark",
+            "**4.&emsp;Industry Insights**: Extracted business insights based on analytical results and visualizations. Composed analytical reports and provided strategic recommendations to support decision-making"
         ]
       },
       "zh": {
         "title": "研究助理",
         "company": "金屬中心",
         "content": [
-            "1.&emsp;使用 **Python flask** 與 **MongoDB** 優化資料庫系統，將歷年來的 Excel、PDF 檔案轉換為結構化資料",
-            "2.&emsp;善用 **ShinyApp** 資料視覺化，包含敘述性分析、趨勢圖、馬賽克圖與社群網路圖",
-            "3.&emsp;有 **Hadoop** 與 **Spark** 運算處理大量數據經驗",
-            "5.&emsp;撰寫年度分析報告、提供產業建議"
+            "**1.&emsp;優化資料庫系統**：負責將 Excel、PDF 等文檔轉換為結構化資料，使用 Python Flask 與 MongoDB 開發資料管理介面，支援資料新增、編輯、刪除、搜尋與匯出等功能",
+            "**2.&emsp;資料視覺化**：善用ShinyApp 製作互動式儀表板，呈現敘述性分析、趨勢圖、馬賽克圖與社群網路圖，協助非技術用戶理解數據內容",
+            "**3.&emsp;數據分析**：爬取國外新聞網站資料，設計文字斷詞與關鍵字分析流程，使用 Python spaCy 與 R 的 udpipe，並整合自建關鍵字字典。具備 Hadoop 與 Spark 的大數據處理經驗",
+            "**4.&emsp;產業洞察**：根據分析結果與視覺化圖表，萃取產業洞察，撰寫分析報告並提供決策建議"
         ]
       }
     }
@@ -64,18 +68,18 @@
         "title": "Website Operations & Content Manager",
         "company": "NSYSU's Big Data Business Analytics Platform",
         "content": [
-            "1.&emsp;Maintained and updated **WordPress** websites; planned and produced content to drive web traffic",
-            "2.&emsp;Organized workshops, including building event websites, managing registration systems, setting up live streaming, planning in-person logistics, and executing online marketing campaigns",
-            "3.&emsp;Increased Facebook page followers by **15%** and YouTube channel subscribers by **30%**"
+            "**1.&emsp;Website Content Management**: Maintained the WordPress website by planning and producing digital content, effectively increasing web traffic and user engagement",
+            "**2.&emsp;Event Planning**: Independently built event web pages and registration systems, coordinated online livestream setups and offline event logistics, and managed digital marketing and social media promotion",
+            "**3.&emsp;Social Media Performance**: Managed Facebook fan pages and YouTube channels, achieving a 15% increase in Facebook followers and a 30% growth in YouTube subscribers"
         ]
       },
       "zh": {
         "title": "網站經營與維護",
         "company": "中山大學商業大數據粉專",
         "content": [
-            "1.&emsp;維護 **Wordpress** 網頁，並負責規劃與生產內容，打造流量",
-            "2.&emsp;舉辦工作坊活動，負責活動網頁建置、報名系統、線上直播環境、線下活動規劃與網路行銷",
-            "3.&emsp;Facebook 粉絲專頁上升**15%訂閱數**、YouTube頻道上升**30%訂閱數**"
+            "**1.&emsp;網站內容維護**：負責維護 WordPress 網站，規劃並製作數位內容，提升網站流量與使用者互動",
+            "**2.&emsp;活動策劃**：獨立建置活動網頁與報名系統，整合線上直播環境與線下活動流程，並負責網路行銷與社群曝光",
+            "**3.&emsp;社群經營成效**：經營 Facebook 粉絲專頁與 YouTube 頻道，成功提升粉專追蹤數 15%、頻道訂閱數 30%"
         ]
       }
     }},
@@ -89,14 +93,14 @@
             "title": "Intern",
             "company": "Streams",
             "content": [
-                "1.&emsp;Ext.js Website and Database Maintenance, **Static Webpage Layout Design**"
+                "**1.&emsp;Website Maintenance and Development**: Ext.js Website and Database Maintenance, Static Webpage Layout Design"
             ]
           },
           "zh": {
             "title": "實習生",
             "company": "西川系統",
             "content": [
-                "1.&emsp;Ext.js 網站與資料庫維護、**網頁靜態切版**"
+                "**1.&emsp;網站維護與開發**: Ext.js 網站與資料庫維護、網頁靜態切版"
             ]
           }
         }}

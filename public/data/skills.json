@@ -10,10 +10,10 @@
       { "id": 2, "name": "CSS" },
       { "id": 3, "name": "JavaScript ES6" },
       { "id": 4, "name": "Bootstrap" },
-      { "id": 5, "name": "Vue 3" },
-      { "id": 6, "name": "Vuetify" },
-      { "id": 11, "name": "Blazor" },
-      { "id": 7, "name": "React" },
+      { "id": 5, "name": "Vue.js" },
+      { "id": 6, "name": "Blazor" },
+      { "id": 11, "name": "React" },
+      { "id": 7, "name": "Next.js" },
       { "id": 8, "name": "Tailwind CSS" }
     ]
   },
