@@ -10,10 +10,10 @@
         "content": [
           "**1.&emsp;Corporate Website Development**: Collaborated with front-end engineers to convert static templates into dynamic websites using Vue.js and ASP.NET MVC architecture",
           "**2.&emsp;CMS Development**: Led requirement analysis and system design. Developed the front end using Vue.js and integrated TinyMCE for visual content editing. Implemented the back end with .NET Core and designed a flexible, extensible database structure using the EAV model",
-          "**3.&emsp;Legacy System Integration**: Planned and designed new system features, organized phased rollouts, and ensured smooth system transitions without disrupting existing operations",
+          "**3.&emsp;Legacy System Integration**: Planned and scheduled a phased rollout process to ensure a smooth system transition.",
           "**4.&emsp;Automation Tool Implementation**: Developed PowerShell Remoting scripts to connect and perform security scans across multiple servers. Used Task Scheduler to automate recurring tasks, significantly reducing manual workload",
           "**5.&emsp;UI Plugin Development**: Created custom C# components and JavaScript plugins (e.g., personnel selector, dynamic dropdown menus). Delivered integration documentation to the front-end team, improving development speed and maintainability",
-          "**6.&emsp;Cross-Department Collaboration**: Migrated internal enterprise forms to responsive design. Collaborated with design and development teams, established a clear implementation process, and held regular review meetings to enhance maintainability and optimize user experience"
+          "**6.&emsp;Cross-Department Collaboration**: Collaborated with design, front-end, and back-end teams to successfully implement responsive design for 100+ internal company forms, optimizing cross-device user experience"
         ]
       },
       "zh": {
@@ -22,10 +22,10 @@
         "content": [
           "**1.&emsp;開發公司網站**：與前端工程師合作，將靜態切版轉換為Vue.js 框架、ASP .NET MVC架構網站等經驗",
           "**2.&emsp;開發CMS網站**：主導需求訪談與系統設計，前端採用 Vue.js開發，使用 TinyMCE 實現可視化內容編輯，後端採用 .NET Core 架構以及 EAV 資料庫設計，實現資料彈性擴充",
-          "**3.&emsp;整合新舊系統**：規劃與設計新系統功能，並安排階段性切換，確保系統能順利過渡",
+          "**3.&emsp;整合新舊系統**：安排與規劃階段性上線流程，確保系統能順利過渡",
           "**4.&emsp;導入自動化工具**： 撰寫 PowerShell Remoting ，連接至多台伺服器執行一系列安全性掃描，並使用 Task Scheduler 自動化定期執行任務，減少手動操作",
           "**5.&emsp;撰寫UI插件**：開發 C# 控制元件與 JavaScript 插件（如人員選擇功能、動態下拉選單等），並提供文檔交付前端團隊整合與自定義，提升開發效率",
-          "**6.&emsp;跨部門合作**：將企業內部各表單導入響應式設計。與設計、前後端團隊合作，建立導入流程，定期開會與調整，提升維護效率，並優化使用者體驗"
+          "**6.&emsp;跨部門合作**：與設計、前後端團隊合作，成功將企業內部 100+ 表單導入響應式設計，優化跨裝置體驗"
         ]
       }
     }
