@@ -36,11 +36,10 @@ export default async function  About(){
             {t("name")}
           </h4>
           <h5 className="tracking-[0.5px] font-thin">{t("title")}</h5>
-          <p className="opacity-0 h-0 group-hover:h-fit group-hover:opacity-100 transition-all text-xs text-xs/5 mt-0 group-hover:mt-3 duration-300 ease-in-out tracking-[0.8px] font-thin">
+          <p className="opacity-0 h-0 group-hover:h-fit group-hover:opacity-100 transition-all text-sm text-xs/5 mt-0 group-hover:mt-3 duration-300 ease-in-out tracking-[0.8px] font-light">
           {t('line1')}<br/>
           {t('line2')}<br/>
           {t('line3')}<br/>
-          {t('line4')}
           </p>
         </div>
       </div>

@@ -6,23 +6,15 @@
     "link" : "https://www.pegatroncorp.com/",
     "translations": {
       "en": {
-        "name" : "PEGATRON",
+        "name" : "PEGATRON｜Vue 3",
         "content" : [
-          "A front-end and back-end separated project with an independent CMS backend.",
-          "",
-          "**•&emsp;Back-end**: C# .NET Core architecture, using RESTful API design",
-          "**•&emsp;Front-end**: Vue.js architecture, utilizing i18n with Vuex for multi-language management",
-          "**•&emsp;CMS Backend**: Vue.js architecture, using Vuetify for quick UI integration and TinyMCE for visual content editing"
+          "Developed 50+ modular pages, integrated APIs, implemented multilingual support, form validation, user subscription, and email delivery features. Built a custom CMS interface to enhance content management efficiency."
         ]
       } ,
       "zh": {
-        "name" : "PEGATRON",
+        "name" : "PEGATRON｜Vue 3",
         "content" : [
-          "採用前後端分離專案，並有獨立CMS後台。",
-          "",
-          "**•&emsp;後端**：C# .NET Core 架構，使用 RESTful API 設計",
-          "**•&emsp;前端**：Vue.js架構，採用 i18n 搭配 Vuex 多語系管理",
-          "**•&emsp;CMS後台**：Vue.js架構，使用Vuetify快速整合畫面，引用TinyMCE套件實現可視化內容編輯"
+          "模組化開發 50+ 頁面，串接 API，整合多語系、表單驗證、使用者訂閱與信件發送功能，並開發客製化 CMS 介面，提升內容管理效率。"
         ]
       }
     }
@@ -34,19 +26,13 @@
     "link" : "https://svr.pegatroncorp.com/",
     "translations": {
       "en": {
-        "name" : "PEGATRON SVR",
-        "content" : ["•&emsp;ASP.NET MVC architecture",
-  "•&emsp;Modular design with Razor pages (.cshtml), Layout, and Partial Views",
-  "•&emsp;Data exchange using JSON format",
-  "•&emsp;Asynchronous search functionality via AJAX (jQuery / Fetch)"]
+        "name" : "PEGATRON SVR｜ASP.NET MVC",
+        "content" : ["Built 10+ modular pages with JSON-based content management and AJAX-driven dynamic loading. Integrated form validation and email delivery features; conducted load testing to ensure system stability."]
       } ,
       "zh": {
-        "name" : "PEGATRON SVR",
+        "name" : "PEGATRON SVR｜ASP.NET MVC",
         "content" : [
-          "•&emsp;ASP.NET MVC 架構",
-        "•&emsp;Razor 頁面 (.cshtml) 與 Layout、Partial View 模組化設計",
-        "•&emsp;JSON 資料交換格式",
-      "•&emsp;AJAX 非同步搜尋功能"]
+          "模組化開發 10+ 頁面，使用 JSON 管理內容並透過 AJAX 動態載入資訊，整合表單驗證與信件發送功能，執行網站壓力測試確保系統穩定性。"]
       }
     }
   },
@@ -57,17 +43,15 @@
     "link" : "https://my-portfolio-next-theta.vercel.app",
     "translations": {
       "en": {
-        "name" : "Personal Website",
+        "name" : "Personal Website｜Next.js + TypeScript",
         "content" : [
-          "•&emsp;Using Next.js App Router with TypeScript, deployed on Vercel",
-          "•&emsp;Styled with Radix UI components and Tailwind CSS to quickly create responsive layout designs"
+          "Built a responsive website using Next.js App Router, deployed on Vercel, and integrated Radix UI with Tailwind CSS."
         ]
       } ,
       "zh": {
-        "name" : "個人網站",
+        "name" : "個人網站｜Next.js + TypeScript",
         "content" : [
-          "•&emsp;採用 Next.js App Router 搭配 TypeScript，並部署於 Vercel",
-          "•&emsp;使用 Radix UI 元件與 Tailwind CSS，實現快速、響應式版面設計"
+          "採用 Next.js App Router 架構，部署於 Vercel。整合 Radix UI 與 Tailwind CSS，打造響應式、快速載入的個人網站介面"
         ]
       }
     }
